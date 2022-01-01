@@ -9,7 +9,11 @@ https://app.diagrams.net/#G1w_zpxtuBSD0k9658BwDJl_cjSZo9h2pv
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the ansible file may be used to install only certain pieces of it, such as Filebeat.
 
+Elk Ansible Playbook
 https://github.com/d-OB/ELK-Stack/blob/main/Ansible/Elk-Ansible.yml
+File Beat Configuration
+https://github.com/d-OB/ELK-Stack/blob/main/Ansible/File-beat.config
+Filebeat Playbook
 
 This document contains the following details:
 - Description of the Topologu
